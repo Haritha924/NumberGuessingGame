@@ -28,7 +28,7 @@ Make sure you have Java installed on your system. You can download it from [java
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/jnumber-guessing-game.git
+   git clone https://github.com/Haritha924/NumberGuessingGame
 
 1.Navigate to the project directory:
     cd NumberGuessingGame
